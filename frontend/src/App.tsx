@@ -2,7 +2,7 @@
 function App() {
   return (
     <main>
-      <h1>Your Name</h1>
+      <h1>Lucas Sanderson</h1>
 
       <h2>Senior Capstone Production Platform</h2>
 
